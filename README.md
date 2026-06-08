@@ -2,6 +2,10 @@
 
 A browser-based **Live Code Editor** built using **HTML, CSS, and JavaScript**. WebLab allows users to write, style, and execute code in real time while instantly previewing the output, making it a lightweight playground for front-end experimentation and learning.
 
+## 🌐 Live Demo
+
+🔗 https://web-lab-six-alpha.vercel.app/
+
 ## 🚀 Features
 
 - Live HTML editing and rendering
